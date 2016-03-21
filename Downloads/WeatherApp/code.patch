@@ -1,0 +1,30 @@
+Index: ../../Library/Preferences/AndroidStudio1.4/options/github_settings.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../../Library/Preferences/AndroidStudio1.4/options/github_settings.xml	(revision )
++++ ../../Library/Preferences/AndroidStudio1.4/options/github_settings.xml	(revision )
+@@ -0,0 +1,6 @@
++<application>
++  <component name="GithubSettings">
++    <option name="LOGIN" value="lixtjoanna@gmail.com" />
++    <option name="AUTH_TYPE" value="BASIC" />
++  </component>
++</application>
+\ No newline at end of file
+Index: ../../Library/Preferences/AndroidStudio1.4/options/git.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- ../../Library/Preferences/AndroidStudio1.4/options/git.xml	(revision )
++++ ../../Library/Preferences/AndroidStudio1.4/options/git.xml	(revision )
+@@ -0,0 +1,6 @@
++<application>
++  <component name="Git.Application.Settings">
++    <option name="myPathToGit" value="/usr/bin/git" />
++    <option name="SSH_EXECUTABLE" value="IDEA_SSH" />
++  </component>
++</application>
+\ No newline at end of file
